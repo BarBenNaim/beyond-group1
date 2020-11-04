@@ -136,3 +136,6 @@ nohup.out
 
 # dr
 dr
+
+# db.sqlite3
+db.sqlite3
